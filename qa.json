@@ -1,0 +1,20 @@
+{
+  "url" : "https://pub.regionstockholm.se/fhir/ig/template/ImplementationGuide/regionstockholm.core.template",
+  "name" : "RegionStockholmCoreTemplate",
+  "title" : "Region Stockholm FHIR Implementation Guide Template",
+  "description" : "Mall för Region Stockholms FHIR Implementation Guides.",
+  "status" : "draft",
+  "package-id" : "regionstockholm.core.template",
+  "ig-ver" : "2.3.0",
+  "date" : "Wed, 11 Nov, 2026 14:31:22 +0000",
+  "dateISO8601" : "2026-11-11T14:31:22+00:00",
+  "errs" : 0,
+  "warnings" : 1,
+  "hints" : 5,
+  "broken-links" : 3,
+  "suppressed-hints" : 0,
+  "suppressed-warnings" : 3,
+  "version" : "4.0.1",
+  "tool" : "6.0.0-snapshot1 (3)",
+  "maxMemory" : 825151592
+}

@@ -1,0 +1,34 @@
+# regionstockholm.core.template#2.3.0: Region Stockholm FHIR Implementation Guide Template(sv)
+
+## Pages
+
+* [Hem](sv/index.md)
+* [Förväntade svar](sv/expected-responses.md)
+* [Testning och validering](sv/testing.md)
+* [Roller och ansvar](sv/roles-and-responsibilities.md)
+* [Om](sv/about.md)
+* [Felhantering](sv/error-handling.md)
+* [Sammanfattning av artefakter](sv/artifacts.md)
+* [REST-interaktioner och sökparametrar](sv/rest-interactions.md)
+* [Användningsfall](sv/use-cases.md)
+* [Inledning](sv/introduction.md)
+* [Mappning till profiler](sv/mappings.md)
+* [Säkerhet och behörighet](sv/security.md)
+* [Versionshistorik](sv/version-history.md)
+* [Informationsunderlag](sv/information-basis.md)
+* [CapabilityStatement](sv/capabilitystatement.md)
+* [Nedladdningar](sv/downloads.md)
+
+## Resources
+
+### Resource Profiles
+
+* [Inera Patient](sv/StructureDefinition-IneraPatient.md)
+
+### ImplementationGuides
+
+* [Region Stockholm FHIR Implementation Guide Template](sv/ImplementationGuide-regionstockholm.core.template.md)
+
+### Examples
+
+* [IneraPatientExample (Patient)](sv/Patient-IneraPatientExample.md)

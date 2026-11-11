@@ -1,0 +1,14 @@
+[{
+  "id" : "regionstockholm.core.template",
+  "type" : "ImplementationGuide",
+  "url" : "https://pub.regionstockholm.se/fhir/ig/template/ImplementationGuide/regionstockholm.core.template",
+  "version" : "2.3.0",
+  "name" : "RegionStockholmCoreTemplate"
+},
+{
+  "id" : "IneraPatient",
+  "type" : "StructureDefinition",
+  "url" : "https://pub.regionstockholm.se/fhir/ig/template/StructureDefinition/IneraPatient",
+  "version" : "2.3.0",
+  "name" : "IneraPatient"
+}]
